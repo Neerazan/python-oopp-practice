@@ -36,3 +36,4 @@ c1.car_properties()
 c2.car_properties()
 
 print(c2.color)
+print("the weight is %d." %c2.weight)
