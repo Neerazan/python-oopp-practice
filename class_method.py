@@ -1,3 +1,8 @@
+
+'''
+Class methods work with class variables and are accessible using the class name rather than its object.
+Since all class objects share the class variables, class methods are used to access and modify class variables.
+'''
 class player:
     teamName = 'Barcelona'
 
